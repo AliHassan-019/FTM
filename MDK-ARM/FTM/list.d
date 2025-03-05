@@ -1,0 +1,12 @@
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+ftm\list.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ftm\list.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+ftm\list.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+ftm\list.o: ../Core/Inc/FreeRTOSConfig.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ftm\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

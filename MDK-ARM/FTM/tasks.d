@@ -1,0 +1,16 @@
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+ftm\tasks.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+ftm\tasks.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ftm\tasks.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+ftm\tasks.o: C:\Users\AK\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+ftm\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+ftm\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
